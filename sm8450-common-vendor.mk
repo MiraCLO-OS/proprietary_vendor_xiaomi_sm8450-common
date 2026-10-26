@@ -470,6 +470,7 @@ PRODUCT_PACKAGES += \
     sensors.ultrasoundproximity \
     libdlbvol \
     libhwdap \
+    libswdap \
     libswgamedap \
     libswspatializer \
     libswvqe \
